@@ -37,3 +37,21 @@
  
 ## 8. 통계에 기반한 학습
  - [전 세계 웹페이지들에 가장 많이 사용된 태그 순위](https://www.advancedwebranking.com/html/)
+ <p align="center"> 
+   <img width="80%" src="https://user-images.githubusercontent.com/54846646/102689024-64b63380-423e-11eb-8514-e300a46b10b8.JPG" />
+ </p>
+ 
+## 9. 줄바꿈: br vs p
+ - `<br>`: 새로운 줄 표현
+   - 닫지 않는 태그
+   - 원하는 만큼 간격을 줄 수 있음
+ - `<p> </p>`: 단락 표현
+   - 단락과 단락의 간격 고정 - 시작적 자유도가 떨어짐
+   - CSS를 활용하여 간격 조정
+     - `<p style = "margin-top:45px;">`: p 태그 위쪽에 45px 만큼의 여백(margin) 추가
+ - 일반적으로 `<p>` 태그가 `<br>` 태그보다 좋은 선택 (84.3% vs 69.8%)
+   - 단락의 경계를 분명히 하면서
+   - CSS로 디자인 변경 가능
+ 
+ 
+     
