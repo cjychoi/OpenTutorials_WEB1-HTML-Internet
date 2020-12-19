@@ -19,4 +19,21 @@
   : 저작권이 없는 것
   - 예) 한글, 알파벳, 웹
   
-  
+## 5. HTML 코딩 실습 환경 준비
+ - Atom 에디터 사용
+ - 확장자는 .html
+ - 자동 줄바꿈
+   - preference -> editor -> Soft Wrap
+   
+## 6. 기본 문법 - 태그
+ - `<strong> </strong>`: 진한 글씨
+ - `<u> </u>` : 밑줄
+ 
+ - 한글이 깨질 경우
+   - `<meta charset="utf-8">`
+   
+## 7. 혁명적인 변화
+ - `<h1> </h1>` ~ `<h6> </h6>` : 제목 (heading), 글자의 크기 및 두께 지정
+ 
+## 8. 통계에 기반한 학습
+ - [전 세계 웹페이지들에 가장 많이 사용된 태그 순위](https://www.advancedwebranking.com/html/)
